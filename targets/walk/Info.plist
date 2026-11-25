@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>WKApplication</key>
+  <true/>
+  <key>WKCompanionAppBundleIdentifier</key>
+  <string>org.walkingstudy.phone</string>
+  <key>WKBackgroundModes</key>
+  <array><string>workout-processing</string></array>
+  <key>NSHealthShareUsageDescription</key>
+  <string>Walking Study reads heart-rate samples from walks you choose to record.</string>
+  <key>NSHealthUpdateUsageDescription</key>
+  <string>Walking Study saves the outdoor walking workout so its own heart-rate samples can be retrieved.</string>
+</dict>
+</plist>
